@@ -9,8 +9,7 @@
 - 💬 Ask me about ...
 
 ### You can count on me for following Skills:
-[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]
-[![facebook][2.1]][2]
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
