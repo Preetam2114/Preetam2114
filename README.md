@@ -11,11 +11,11 @@
 ### 📫 How to reach me:
 <!-- social media buttons -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+[![twitter][1.1]][1]
+[![facebook][2.1]][2]
+[![Gmail][3.1]][3]
+[![Github][4.1]][4]
+[![LinkedIn][5.1]][5]
 
 <!-- icons with padding -->
 
@@ -26,6 +26,11 @@
 [5.1]: https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png (linkedin icon with padding)
 
 <!-- social media links -->
+[1]: https://twitter.com/pvr_rane
+[2]: https://www.facebook.com/preetam.rane.39
+[3]: preetamrane2114@gmail.com
+[4]: https://github.com/Preetam2114
+[5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
