@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-### You can count on me for following Skills:
+### 🚀 Skills:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
 ### Find me around the 🌏 on:
