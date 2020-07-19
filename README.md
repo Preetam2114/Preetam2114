@@ -9,27 +9,27 @@
 - 💬 Ask me about ...
 
 
-### 📫 How to reach me:
+### Find me around the 🌏 on:
 <!-- social media buttons -->
 
 [![twitter][1.2]][1]
 [![facebook][2.2]][2]
-[![Gmail][3.2]][3]
-[![Github][4.2]][4]
+[![Medium][3.2]][3]
+[![Instagram][4.2]][4]
 [![LinkedIn][5.2]][5]
 
 <!-- icons with padding -->
 
-[1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white (twitter icon with padding)
-[2.2]: https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white (facebook icon with padding)
-[3.2]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white (google plus icon with padding)
-[4.2]: https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png (github icon with padding)
-[5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white (linkedin icon with padding)
+[1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white 
+[2.2]: https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white 
+[3.2]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white 
+[4.2]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white 
+[5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
 [2]: https://www.facebook.com/preetam.rane.39
-[3]: preetamrane2114@gmail.com
+[3]: https://medium.com/@preetamrane
 [4]: https://github.com/Preetam2114
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
