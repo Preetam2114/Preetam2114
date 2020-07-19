@@ -1,5 +1,6 @@
 ### Hi there, I'm Preetam 👨‍💻 in 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
