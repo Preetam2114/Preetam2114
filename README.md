@@ -12,7 +12,6 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=C++&logoColor=white)
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
