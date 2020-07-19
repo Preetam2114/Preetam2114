@@ -20,11 +20,11 @@
 
 <!-- icons with padding -->
 
-[1.2]: https://icon-icons.com/icons2/791/PNG/32/TWITTER_icon-icons.com_65486.png (twitter icon with padding)
-[2.2]: https://icon-icons.com/icons2/1/PNG/32/social_facebook_fb_35.png (facebook icon with padding)
-[3.2]: https://icon-icons.com/icons2/652/PNG/32/gmail_icon-icons.com_59877.png (google plus icon with padding)
+[1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white (twitter icon with padding)
+[2.2]: https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white (facebook icon with padding)
+[3.2]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white (google plus icon with padding)
 [4.2]: https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png (github icon with padding)
-[5.2]: https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png (linkedin icon with padding)
+[5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white (linkedin icon with padding)
 
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
