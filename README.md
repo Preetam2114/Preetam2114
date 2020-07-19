@@ -1,4 +1,4 @@
-<body bgcolor=black>
+
 ### Hi there, I'm Preetam 👨‍💻
 
 ![Preetam's github stats](https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -37,4 +37,4 @@
 [3]: https://medium.com/@preetamrane
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
-</body>
+
