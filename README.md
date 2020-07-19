@@ -8,6 +8,9 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+### You can count on me for following Skills:
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]
+[![facebook][2.1]][2]
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
@@ -32,7 +35,3 @@
 [3]: https://medium.com/@preetamrane
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
