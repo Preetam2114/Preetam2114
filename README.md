@@ -30,7 +30,7 @@
 [1]: https://twitter.com/pvr_rane
 [2]: https://www.facebook.com/preetam.rane.39
 [3]: https://medium.com/@preetamrane
-[4]: https://github.com/Preetam2114
+[4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
 - 😄 Pronouns: ...
