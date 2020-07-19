@@ -11,19 +11,19 @@
 ### 📫 How to reach me:
 <!-- social media buttons -->
 
-[![twitter][1.1]][1]
-[![facebook][2.1]][2]
-[![Gmail][3.1]][3]
-[![Github][4.1]][4]
-[![LinkedIn][5.1]][5]
+[![twitter][1.2]][1]
+[![facebook][2.2]][2]
+[![Gmail][3.2]][3]
+[![Github][4.2]][4]
+[![LinkedIn][5.2]][5]
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[5.1]: https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png (linkedin icon with padding)
+[1.2]: https://icon-icons.com/icons2/791/PNG/32/TWITTER_icon-icons.com_65486.png (twitter icon with padding)
+[2.2]: https://icon-icons.com/icons2/1/PNG/32/social_facebook_fb_35.png (facebook icon with padding)
+[3.2]: https://icon-icons.com/icons2/652/PNG/32/gmail_icon-icons.com_59877.png (google plus icon with padding)
+[4.2]: https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png (github icon with padding)
+[5.2]: https://icon-icons.com/icons2/652/PNG/32/linkedin_icon-icons.com_59873.png (linkedin icon with padding)
 
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
