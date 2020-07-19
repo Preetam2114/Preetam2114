@@ -2,7 +2,7 @@
 
 ![Preetam's github stats](https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### 🔭 I’m currently working on:
+### Projects Under Construction 🚧:
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +12,7 @@
 ### 🚀 Skills:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
