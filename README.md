@@ -1,10 +1,10 @@
-### Hi there, I'm Preetam 👨‍💻 in 
+### Hi there, I'm Preetam 👨‍💻
 
 ![Preetam's github stats](https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-###  🚧 Projects Under Construction:
+### 🚧 Projects Under Construction:
 
-### Published packages:
+### 📝 Published packages:
 [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Preetam2114/Automail)
 
 ### 🚀 Skills:
