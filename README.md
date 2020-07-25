@@ -9,9 +9,11 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend 10hrs/day debugging my code 😅.
+
 <a href="https://github.com/Preetam2114">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=dark&hide_langs_below=1" />
 </a>
+
 ![Preetam's github stats](https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <hr>
 ### 🚧 Projects Under Construction:
