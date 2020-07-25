@@ -2,7 +2,7 @@
 ### Hi there, I'm Preetam 👨‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
 <p>
-<img src=”https://drive.google.com/file/d/1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI/view?usp=sharing” style="float:right;width:42px;height:42px;"/>
+<img src=”https://avatars0.githubusercontent.com/u/30361120?s=460&u=b706e94c8c479f85d0dd4243b69de2f9da128cca&v=4” style="float:right;width:42px;height:42px;"/>
   
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
@@ -12,6 +12,7 @@
 - 😄 Pronouns: प्रीतम
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
+
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
 
