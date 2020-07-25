@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Angular.
 - 💬 Ask me about Programming or any tech related stuff.
 - 😄 Pronouns: प्रीतम
-- ⚡ Fun fact: You can offer me a coffee, **I won't say NO** 😜 .
+- ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
