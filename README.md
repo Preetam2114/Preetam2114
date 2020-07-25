@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Angular.
 - 💬 Ask me about Programming or any tech related stuff.
 - 😄 Pronouns: प्रीतम
-- ⚡ Fun fact: I spend 10hrs/day debugging my code 😅.
+- ⚡ Fun fact: You can offer me a coffee, **I won't say NO** 😜 .
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
@@ -36,12 +36,12 @@
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
 ### 🚀 Languages and tools:
-<code><img height="20" src="https://lh3.googleusercontent.com/proxy/LrEUQt7IOSwBjT_FEZzzFCpyrnmvaXqVBN6TvHG5TApGBUZA7iEiK8YxBtYBjeMjK7fgGeNOEEEBxJ1Xz8Q1_w9BvUwhmvtpkXrAK7MEZ_eZx1mhYFVCic54UkIfB0QsQe6xh7QGBuGyUQ"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/1x/python-5-logo-png-transparent.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
 <a href="https://github.com/Preetam2114">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=dark&hide_langs_below=1" />
