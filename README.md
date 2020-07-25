@@ -4,13 +4,13 @@
 <p>
 <img src="https://drive.google.com/uc?export=view&id=1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI" style="float:right;width:42px;height:42px;">
 
-- 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
-- 🌱 I’m currently learning Competitive Programming.
-- 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
-- 🤔 I’m looking for help with Angular.
-- 💬 Ask me about Programming or any tech related stuff.
-- 😄 Pronouns: प्रीतम
-- ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
+🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
+🌱 I’m currently learning Competitive Programming.
+👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
+🤔 I’m looking for help with Angular.
+💬 Ask me about Programming or any tech related stuff.
+😄 Pronouns: प्रीतम
+⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
 ### Find me around the 🌏 on:
