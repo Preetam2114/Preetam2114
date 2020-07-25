@@ -36,7 +36,7 @@
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
 ### 🚀 Languages and tools:
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/1x/python-5-logo-png-transparent.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
