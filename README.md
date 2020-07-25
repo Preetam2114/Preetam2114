@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
+<IMG SRC=”https://avatars0.githubusercontent.com/u/30361120?s=460&u=b706e94c8c479f85d0dd4243b69de2f9da128cca&v=4” ALIGN=”right” />
 - 🤔 I’m looking for help with Angular.
 - 💬 Ask me about Programming or any tech related stuff.
 - 😄 Pronouns: प्रीतम
