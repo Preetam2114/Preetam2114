@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Preetam 👨‍💻
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/Preetam2114">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=dark&hide_langs_below=1" />
 </a>
 
