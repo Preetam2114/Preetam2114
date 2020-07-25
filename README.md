@@ -1,11 +1,9 @@
 
 ### Hi there, I'm Preetam 👨‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
-
-<img src=”https://drive.google.com/file/d/1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI/view?usp=sharing” ALIGN=”right” stype="float: right" />
-
-<BR CLEAR=”left” />
-
+<p>
+<img src=”https://drive.google.com/file/d/1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI/view?usp=sharing” style="float:right;width:42px;height:42px;"/>
+  
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
@@ -13,7 +11,7 @@
 - 💬 Ask me about Programming or any tech related stuff.
 - 😄 Pronouns: प्रीतम
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
-
+</p>
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
 
