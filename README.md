@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Preetam 👨‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
-
-<img src=”https://drive.google.com/uc?export=view&id=1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI" style="float:right;"/>                                                        
+<p>
+<img src=”https://drive.google.com/uc?export=view&id=1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI" style="float:right;"/>
                                                                                                             
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
