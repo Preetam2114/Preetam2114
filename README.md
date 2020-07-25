@@ -2,7 +2,7 @@
 ### Hi there, I'm Preetam 👨‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
 
-<img src=”https://avatars0.githubusercontent.com/u/30361120?s=460&u=b706e94c8c479f85d0dd4243b69de2f9da128cca&v=4” ALIGN=”right” stype="float: right" />
+<img src=”https://drive.google.com/file/d/1BVbIdxQW2MLGgM9RmmcYBUAvY0JlWjHI/view?usp=sharing” ALIGN=”right” stype="float: right" />
 
 <BR CLEAR=”left” />
 
