@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
-- 👯 I’m looking to collaborate on [Hack-Mates](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 😄 Pronouns: He/His
+- 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
+- 🤔 I’m looking for help with Angular.
+- 💬 Ask me about Programming or any tech related stuff.
+- 😄 Pronouns: प्रीतम
 - ⚡ Fun fact: I spend 10hrs/day debugging my code 😅.
 
 <a href="https://github.com/Preetam2114">
