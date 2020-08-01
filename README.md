@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
 - 🤔 I’m looking for help with Angular.
 - 💬 Ask me about Programming or any tech related stuff.
-- 😄 Pronouns: प्रीतम
+- 😄 Pronounce: प्रीतम
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
