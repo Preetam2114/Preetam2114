@@ -52,7 +52,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27" alt="Preetam's github stats"/>
 </a>
 
-### 🚧 Projects Under Construction:
-[![Hospital Management](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Hospital&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Preetam2114/Hospital)
 ### 📝 Published packages:
 [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Preetam2114/Automail)
