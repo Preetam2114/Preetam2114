@@ -55,6 +55,8 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
    </td>
+   <td>
+   </td>
   </tr>
   <tr>
     <td>
