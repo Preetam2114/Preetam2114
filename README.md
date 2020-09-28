@@ -63,7 +63,9 @@
      </a>
  </td>
     <td>
-     [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
+ 
+ [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
+     
    </td>
   </tr>
 </table>
