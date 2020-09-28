@@ -41,6 +41,28 @@
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
+<table style="width:100%">
+  <tr>
+    <th>Languages and tools:</th>
+    <th>📝 Published packages:</th>
+  </tr>
+  <tr>
+    <td>
+     <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
+   </td>
+    <td>Smith</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+</table>
+
 ### 🚀 Languages and tools:
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
