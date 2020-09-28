@@ -41,7 +41,7 @@
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
-<table style="width:100%">
+<table style="width:100%;border:none">
   <tr>
     <th>🚀 Languages and tools:</th>
     <th>📝 Published packages:</th>
@@ -69,10 +69,4 @@
    </td>
   </tr>
 </table>
-
-
-
-
-### 📝 Published packages:
-
 
