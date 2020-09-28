@@ -54,7 +54,9 @@
 </a>
 
 <a href="https://github.com/Preetam2114">
+  
 [![AutoMail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Preetam2114)](https://github.com/Preetam2114/Automail)
+
 </a>
 
 ### 📝 Published packages:
