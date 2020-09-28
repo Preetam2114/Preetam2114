@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://github.com/Preetam2114">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
 </a>
 
 ### Find me around the 🌏 on:
