@@ -16,7 +16,7 @@
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
-<div align="center">
+<div align="center" width="100%">
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
