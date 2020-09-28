@@ -54,4 +54,4 @@
 </a>
 
 ### 📝 Published packages:
-[![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=fff&icon_color=79ff97&text_color=white&line_height=27&bg_color=151515)](https://github.com/Preetam2114/Automail)
+[![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=white&icon_color=79ff97&text_color=black&line_height=27&bg_color=151515)](https://github.com/Preetam2114/Automail)
