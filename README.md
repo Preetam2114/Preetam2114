@@ -56,13 +56,15 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
    </td>
     <td>
-     <a href="https://github.com/Preetam2114">
-  <img align="left" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
-     </a>
+
    </td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td>
+     <a href="https://github.com/Preetam2114">
+  <img align="left" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
+     </a>
+ </td>
     <td>Jackson</td>
   </tr>
 </table>
