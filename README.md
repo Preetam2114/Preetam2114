@@ -4,7 +4,7 @@
 <p>
   
 <a href="https://github.com/Preetam2114">
-  <img align="center" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=white&hide_langs_below=1" />
+  <img align="right" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=white&hide_langs_below=1" />
 </a>
   
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
