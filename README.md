@@ -16,7 +16,7 @@
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
-<pre align="center">
+<div align="center">
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
@@ -42,7 +42,7 @@
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
-</pre>
+</div>
 
 <table align="center" style="width:100%;border: none;" cellspacing="0" cellpadding="0">
   <tr>
