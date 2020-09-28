@@ -43,7 +43,7 @@
 
 <table style="width:100%">
   <tr>
-    <th>Languages and tools:</th>
+    <th>🚀 Languages and tools:</th>
     <th>📝 Published packages:</th>
   </tr>
   <tr>
@@ -55,9 +55,6 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
    </td>
-    <td>
-
-   </td>
   </tr>
   <tr>
     <td>
@@ -65,21 +62,15 @@
   <img align="left" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
      </a>
  </td>
-    <td>Jackson</td>
+    <td>
+     [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
+   </td>
   </tr>
 </table>
-
-### 🚀 Languages and tools:
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
 
 
 
 ### 📝 Published packages:
-[![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
+
 
