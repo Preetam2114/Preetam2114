@@ -50,10 +50,10 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
 <a href="https://github.com/Preetam2114">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=white&line_height=27" alt="Preetam's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=white&line_height=27" alt="Preetam's github stats"/>
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/Preetam2114">
+[![AutoMail's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Preetam2114)](https://github.com/Preetam2114/Automail)
+</a>
 ### 📝 Published packages:
 [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Preetam2114/Automail)
