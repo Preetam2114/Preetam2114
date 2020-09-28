@@ -16,6 +16,9 @@
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
+<a href="https://github.com/Preetam2114">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
+</a>
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
@@ -49,9 +52,7 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
-<a href="https://github.com/Preetam2114">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
-</a>
 
 ### 📝 Published packages:
 [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
+
