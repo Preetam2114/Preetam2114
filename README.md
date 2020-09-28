@@ -45,10 +45,10 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
 <a href="https://github.com/Preetam2114">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=white&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Preetam2114">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27" alt="Preetam's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=white&line_height=27" alt="Preetam's github stats"/>
 </a>
 
 ### 📝 Published packages:
