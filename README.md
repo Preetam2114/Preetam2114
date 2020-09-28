@@ -4,7 +4,7 @@
 <p>
 
 <a href="https://github.com/Preetam2114">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
 </a>
 
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
@@ -50,7 +50,7 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
 
 <a href="https://github.com/Preetam2114">
-  <img align="right" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
+  <img align="left" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
 </a>
 
 
