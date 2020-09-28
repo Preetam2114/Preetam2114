@@ -6,7 +6,11 @@
 <a href="https://github.com/Preetam2114">
   <img align="right" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
 </a>
-  
+
+<a href="https://github.com/Preetam2114">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
+</a>
+
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
@@ -16,9 +20,6 @@
 - ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
 </p>
 
-<a href="https://github.com/Preetam2114">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
-</a>
 
 ### Find me around the 🌏 on:
 <!-- social media buttons -->
