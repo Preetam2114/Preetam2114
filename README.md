@@ -2,10 +2,6 @@
 ### Hi there, I'm Preetam👨‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
 <p>
-  
-<a href="https://github.com/Preetam2114">
-  <img align="right" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
-</a>
 
 <a href="https://github.com/Preetam2114">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=whiteshow_icons=true&line_height=27" alt="Preetam's github stats"/>
@@ -52,6 +48,10 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
+
+<a href="https://github.com/Preetam2114">
+  <img align="right" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
+</a>
 
 
 ### 📝 Published packages:
