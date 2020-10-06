@@ -45,12 +45,13 @@
 </div>
 
 <table align="center" style="width:100%;border: none;" cellspacing="0" cellpadding="0">
-      <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
+<p align="center">
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code>
+<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code></p>
     <th>🚀 Languages and tools:</th>
     <th>📝 Published packages:</th>
   </tr>
