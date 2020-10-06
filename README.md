@@ -52,8 +52,8 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code></p>
-    <th>🚀 Languages and tools:</th>
-    <th>📝 Published packages:</th>
+    <th>🚀  Languages          </th>
+    <th>📝  Published packages:</th>
   </tr>
   <tr>
   </tr>
