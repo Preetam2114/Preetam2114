@@ -1,5 +1,6 @@
 
-### Hi there, I'm Preetam👨‍💻
+### Hi there, I'm Preetam👨‍💻 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
 <p>
 
@@ -26,7 +27,9 @@
 [![Medium][3.2]][3]
 [![Instagram][4.2]][4]
 [![LinkedIn][5.2]][5]
-
+<a href="https://dev.to/preetam2114">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Preetam Rane's DEV Profile" height="30" width="30">
+</a>
 <!-- icons with padding -->
 
 [1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white 
@@ -35,12 +38,14 @@
 [4.2]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white 
 [5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 
+
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
 [2]: https://www.facebook.com/preetam.rane.39
 [3]: https://medium.com/@preetamrane
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
+
 
 </div>
 
