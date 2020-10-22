@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
 <p>
 
+<a href="https://github.com/Preetam2114">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dark&line_height=27" alt="Preetam's github stats"/>
+</a>
 
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
 - 🌱 I’m currently learning Competitive Programming.
