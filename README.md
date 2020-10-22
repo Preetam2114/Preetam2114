@@ -5,7 +5,7 @@
 <p>
 
 <a href="https://github.com/Preetam2114">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dark&line_height=27" alt="Preetam's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dark&line_height=27&include_all_commits=true" alt="Preetam's github stats"/>
 </a>
 
 - 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
