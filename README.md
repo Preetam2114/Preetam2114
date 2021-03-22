@@ -7,8 +7,6 @@
 
 <p>I'm a final year student at Vidyalankar Institute of Technology Mumbai pursuing under graduation in Electronics and Telecommunication. I'm a tech enthusiast who loves to work with new Technologies; Thus, I constantly keep myself updated on a wide range of domains including, Machine learning, Data Science, Cyber Securities, & Web-development. I love reading books on psychology, self-development & non-fiction. Repetitive work bores me; Thus, automation is my fortress. Feel drop to drop a collaboration mail or connect me via social platforms.</p>
 
-
-#
 <!-- social media buttons -->
 [![twitter][1.2]][1]
 [![facebook][2.2]][2]
@@ -30,8 +28,9 @@
 [3]: https://medium.com/@preetamrane
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
+</div>
 
-# Tech-Background
+## Tech-Background
  ⚡ Technologies I have used ⚡<br>
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%7C-blue?style=flat-square) 
@@ -48,16 +47,10 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code></p>
 
 ### Github stats:
-
-<p>
 <a href="https://github.com/Preetam2114">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
-</a>
-
-<a href="https://github.com/Preetam2114">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
-</a>
-</p>
+</a><br>
 
 ### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
