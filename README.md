@@ -46,12 +46,15 @@
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code></p>
 
-### Github stats:
+# Github stats:
 <a href="https://github.com/Preetam2114">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
 </a><br>
 
-### Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Github Trophy profile:
+
+<a href="https://github.com/Preetam2114">
+<img src="https://github-profile-trophy.vercel.app/?username=preetam2114&theme=onedark&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
+</a>
 
