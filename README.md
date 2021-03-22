@@ -53,7 +53,7 @@
 ### Github Trophy profile :trophy:  :
 
 <a href="https://github.com/Preetam2114">
-<img src="https://github-profile-trophy.vercel.app/?username=preetam2114&theme=onedark&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=preetam2114&theme=onedark&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
 </a>
 
 ### Published Projects:
