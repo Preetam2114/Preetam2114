@@ -1,36 +1,20 @@
 
-### Hi there, I'm Preetam👨‍💻 
+<h1 align="center"> Hey :man_technologist:, Welcome to my GitHub Profile </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
-<p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" alt="Preetam2114" /> </p>
+ 
+<img src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" align="left" height="180" width="240">
 
-<a href="https://github.com/Preetam2114">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
-</a>
-
-- 🔭 I’m currently working on [Automail](https://pypi.org/project/Automail/0.1.4/).
-- 🌱 I’m currently learning Competitive Programming.
-- 👯 I’m looking to collaborate on [Hack-Mates](https://github.com/Hack-Mates).
-- 🤔 I’m looking for help with Angular.
-- 💬 Ask me about Programming or any tech related stuff.
-- 😄 Pronounce: प्रीतम
-- ⚡ Fun fact: You can offer me coffee anytime, **I won't say NO** 😜 .
-</p>
-
-<div align="center" width="100%">
+<p>I'm a final year student at Vidyalankar Institute of Technology Mumbai pursuing under graduation in Electronics and Telecommunication. I'm a tech enthusiast who loves to work with new Technologies; Thus, I constantly keep myself updated on a wide range of domains including, Machine learning, Data Science, Cyber Securities, & Web-development. I love reading books on psychology, self-development & non-fiction. Repetitive work bores me; Thus, automation is my fortress. Feel drop to drop a collaboration mail or connect me via social platforms.</p>
 
 
-### Find me around the 🌏 on:
+#
 <!-- social media buttons -->
-
 [![twitter][1.2]][1]
 [![facebook][2.2]][2]
 [![Medium][3.2]][3]
 [![Instagram][4.2]][4]
 [![LinkedIn][5.2]][5]
-<a href="https://dev.to/preetam2114">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Preetam Rane's DEV Profile" height="30" width="30">
-</a>
 <!-- icons with padding -->
 
 [1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white 
@@ -47,34 +31,34 @@
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
 
+# Tech-Background
+ ⚡ Technologies I have used ⚡<br>
 
-
-</div>
-
-<table align="center" style="width:100%;border: none;" cellspacing="0" cellpadding="0">
-<p align="center">
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/python-5-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/c-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/html5-logo.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/google-cloud-logo.png"></code>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%7C-blue?style=flat-square) 
+![Web Development](https://img.shields.io/badge/Web%20Development-%7C-red?style=flat-square) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/django-logo.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/1x/photoshop-cc-logo.png"></code></p>
-    <th>🚀  Languages          </th>
-    <th>📝  Published packages:</th>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/Preetam2114">
-  <img align="left" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetam2114&theme=megenta&hide_langs_below=1" />
-     </a>
- </td>
-    <td>
- 
- [![AutoMail](https://github-readme-stats.vercel.app/api/pin/?username=Preetam2114&repo=Automail&title_color=#008000f&icon_color=79ff97&text_color=black&line_height=27&bg_color=#ffffff)](https://github.com/Preetam2114/Automail)
-     
-   </td>
-  </tr>
-</table>
+
+### Github stats:
+
+<p>
+<a href="https://github.com/Preetam2114">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
+</a>
+
+<a href="https://github.com/Preetam2114">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
+</a>
+</p>
+
+### Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
