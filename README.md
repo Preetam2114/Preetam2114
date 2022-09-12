@@ -47,7 +47,6 @@
 ### Github stats :chart_with_upwards_trend: :
 <a href="https://github.com/Preetam2114">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Preetam2114&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true alt="Preetam's github stats"/>
 </a><br>
 
 ### Published Projects:
