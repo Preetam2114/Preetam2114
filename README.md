@@ -5,7 +5,7 @@
  
 <img src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" align="left" height="180" width="240">
 
-<p>I'm a final year student at Vidyalankar Institute of Technology Mumbai pursuing under graduation in Electronics and Telecommunication. I'm a tech enthusiast who loves to work with new Technologies; Thus, I constantly keep myself updated on a wide range of domains including, Machine learning, Data Science, Cyber Securities, & Web-development. I love reading books on psychology, self-development & non-fiction. Repetitive work bores me; Thus, automation is my fortress. Feel free to drop a collaboration mail or connect me via social platforms.</p>
+<p>I'm an Electronics and Telecommunication undergrad currently working as a Machine learning engineer at WonderBiz Technologies Pvt. Ltd. Being a tech enthusiast who loves to work with new Technologies; I constantly keep myself updated on a wide range of domains including, Machine learning, Data Science, Cyber Securities, & Web-development. I love reading books on psychology, self-development & non-fiction. Repetitive work bores me; Thus, automation is my fortress. Feel free to drop a collaboration mail or connect me via social platforms.</p>
 
 <!-- social media buttons -->
 [![twitter][1.2]][1]
