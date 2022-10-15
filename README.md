@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Github stats :chart_with_upwards_trend: :
+## Github stats :chart_with_upwards_trend: :
 <a href="https://github.com/Preetam2114">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
 </a><br>
