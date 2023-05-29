@@ -3,9 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Preetam2114&label=Views&color=blue&style=plastic" style="border:5px solid #FFFFFF;padding:3px margin:5px"alt="Preetam2114" /> </p>
  
-<img src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" align="left" height="180" width="240">
+<!-- <img src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" align="left" height="180" width="240" right-padding="10">
+ -->
+<p>As a passionate tech enthusiast, I thrive on solving complex problems using cutting-edge technology. My expertise includes a wide range of domains, including machine learning, data science, and web development. I stay constantly updated on the latest advancements in these fields to ensure that I am always at the forefront of innovation.<br>
 
-<p>I'm an Electronics and Telecommunication undergrad currently working as a Machine learning engineer at WonderBiz Technologies Pvt. Ltd. Being a tech enthusiast who loves to work with new Technologies; I constantly keep myself updated on a wide range of domains including, Machine learning, Data Science, Cyber Securities, & Web-development. I love reading books on psychology, self-development & non-fiction. Repetitive work bores me; Thus, automation is my fortress. Feel free to drop a collaboration mail or connect me via social platforms.</p>
+Automation is my forte, and I am always on the lookout for ways to streamline and optimize processes. Whether it's developing custom scripts or implementing off-the-shelf solutions, I am committed to delivering results that exceed expectations.
+
+If you have an exciting project that requires top-notch technical skills, please feel free to connect with me. I would love the opportunity to collaborate with like-minded professionals and help bring your vision to life.</p>
 
 <!-- social media buttons -->
 [![twitter][1.2]][1]
@@ -13,6 +17,7 @@
 [![Medium][3.2]][3]
 [![Instagram][4.2]][4]
 [![LinkedIn][5.2]][5]
+[![Dev.to][6.2]][6]
 <!-- icons with padding -->
 
 [1.2]: https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white 
@@ -20,7 +25,7 @@
 [3.2]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white 
 [4.2]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white 
 [5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-
+[6.2]: https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=linkedin&logoColor=white 
 
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
@@ -28,6 +33,7 @@
 [3]: https://medium.com/@preetamrane
 [4]: https://www.instagram.com/mr_codeaholic/
 [5]: https://www.linkedin.com/in/preetam-rane-4b0524165/
+[6]: https://dev.to/mrcodeaholic
 </div>
 
 ## Tech-Background
