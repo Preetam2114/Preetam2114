@@ -25,7 +25,7 @@ If you have an exciting project that requires top-notch technical skills, please
 [3.2]: https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white 
 [4.2]: https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white 
 [5.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-[6.2]: https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=linkedin&logoColor=white 
+[6.2]: https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=devdotto&logoColor=white 
 
 <!-- social media links -->
 [1]: https://twitter.com/pvr_rane
