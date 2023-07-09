@@ -52,7 +52,7 @@ If you have an exciting project that requires top-notch technical skills, please
 
 ## Github stats :chart_with_upwards_trend: :
 <a href="https://github.com/Preetam2114">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetam2114&layout=compact&theme=radical" alt="Preetam's github stats" width=100%/>
 </a><br>
 
 ### Published Projects:
